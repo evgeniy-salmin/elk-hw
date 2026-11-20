@@ -7,6 +7,7 @@
 
 ### Решение 1
 
+<img width="562" height="286" alt="EVGEN-PC_2026-11-20-203919" src="https://github.com/user-attachments/assets/4e07f066-8f32-4a90-b8f4-bcc25f29a10d" />
 
 
 ### Задание 2. Kibana
@@ -16,6 +17,7 @@
 
 ### Решение 2
 
+<img width="1453" height="756" alt="image" src="https://github.com/user-attachments/assets/a4925790-8a22-43e8-9675-92c15a44e65f" />
 
 
 ### Задание 3. Logstash
