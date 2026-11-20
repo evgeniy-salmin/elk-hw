@@ -27,6 +27,7 @@
 
 ### Решение 3
 
+<img width="1614" height="239" alt="image" src="https://github.com/user-attachments/assets/6540e7ae-9229-424a-b3c4-d72e263335a2" />
 
 
 ### Задание 4. Filebeat.
